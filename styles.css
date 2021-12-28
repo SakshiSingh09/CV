@@ -1,0 +1,20 @@
+body{
+  background-color: #64485c;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: thick;
+  border-top-color: white;
+  width: 4%;
+  align-items: center;
+}
+h1 {
+  color: #66bfbf;
+}
+h3 {
+  color : #66bfbf;
+}
+td,li,p {
+  color : white;
+}
